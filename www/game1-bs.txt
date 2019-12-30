@@ -1,0 +1,28 @@
+
+Gambar Berikut adalah sistem Pelampung;
+1;
+|
+Gambar Berikut adalah Primary High Speed System;
+2;
+|
+Gambar Berikut adalah Secondary High Speed System;
+2;
+|
+Gambar Berikut adalah Power System;
+2;
+|
+Gambar Berikut adalah sistem karburator arus naik;
+2;
+|
+Gambar Berikut adalah sistem karburator fixed venturi;
+1;
+|
+Gambar Berikut adalah sistem karburator fixed venturi;
+2;
+|
+Gambar Berikut ini merupakan karburator singgle barel;
+1;
+|
+Gambar Berikut ini merupakan karburator singgle barel;
+2;
+|
